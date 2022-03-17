@@ -1,0 +1,10 @@
+
+@font-face {  
+font-family: ioppz;  
+src: url('../fonts/THSarabun Bold.ttf');
+
+}
+.fontnav{
+font-family: ioppz;
+font-size:21px;
+}
